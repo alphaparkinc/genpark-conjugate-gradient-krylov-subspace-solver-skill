@@ -1,0 +1,17 @@
+{
+  "name": "genpark-conjugate-gradient-krylov-subspace-solver-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Conjugate Gradient Krylov Subspace Iterative Solver for SPD Linear Systems",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "linear-algebra",
+    "conjugate-gradient",
+    "krylov-subspace",
+    "linear-solvers"
+  ]
+}
